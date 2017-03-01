@@ -1,2 +1,2 @@
 # OnionChatIRCd
-Open-Source software compilation suite for running an BewareIRCd as a Tor Onion Service
+Open-Source software compilation suite for running an BewareIRCd as a Tor Onion Service<a href="https://koding.com/">    <img src="https://koding-cdn.s3.amazonaws.com/badges/made-with-koding/v1/koding_badge_ReadmeLight.png" srcset="https://koding-cdn.s3.amazonaws.com/badges/made-with-koding/v1/koding_badge_ReadmeLight.png 1x, https://koding-cdn.s3.amazonaws.com/badges/made-with-koding/v1/koding_badge_ReadmeLight@2x.png 2x" alt="Made with Koding" />  </a> 
